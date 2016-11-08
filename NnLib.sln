@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NnRunner", "NnLib\NnRunner.csproj", "{7CF5B193-30E4-4CCB-A094-AF19F72F97ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{8A5BC072-F06E-407A-98A3-2505A9884C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF5B193-30E4-4CCB-A094-AF19F72F97ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF5B193-30E4-4CCB-A094-AF19F72F97ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF5B193-30E4-4CCB-A094-AF19F72F97ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF5B193-30E4-4CCB-A094-AF19F72F97ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5BC072-F06E-407A-98A3-2505A9884C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5BC072-F06E-407A-98A3-2505A9884C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5BC072-F06E-407A-98A3-2505A9884C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5BC072-F06E-407A-98A3-2505A9884C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
